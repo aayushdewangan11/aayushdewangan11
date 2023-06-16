@@ -48,7 +48,7 @@
 
 - **Softwares and Tools**:
 
-    ![MySQL](https://img.shields.io/badge/mysql-777BB4.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-232370ED.svg?&style=for-the-badge&logo=mysql&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
     ![Tableau](https://img.shields.io/badge/Tableau-2C2D72?style=for-the-badge&logo=Tableau&logoColor=white)
