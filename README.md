@@ -4,12 +4,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aayush</h1></summary>
+    <summary><h1 style="display: inline-block">Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp1amxqdjl3dDE1bmNnaGhxcXNib3hoZmtrcTJheXdhbDgyZjB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/55J6tFikNjaS7LhPz6/giphy.gif" width="35">, I'm Aayush</h1></summary>
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+And+AI;Passionate+Developer;Learning+DSA+and+ReactJS;Love+to+learn+new+stuffs..<3"></a>
+<p align="center" style="color:#58a6ff;">
+  And I am High 
 </p>
 
 <!--- snake -->
